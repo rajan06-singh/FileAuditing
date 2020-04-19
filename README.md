@@ -19,4 +19,4 @@ B.  To test the utility on Windows Devices platform:
 
 C.  Verify above scripts by capturing live events by testing: 
 
-- Use FileEncrypt.sh
+- Use TestEncryptFiles.sh
