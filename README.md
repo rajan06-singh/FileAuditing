@@ -11,11 +11,11 @@ The goal here is to audit file patterns during the time of ransomware execution.
   
 A.  To test the utility on Apple devices (OS X) platform: 
  
-- Use AppleWatchdog.sh 
+- Use AppleWatching.sh 
 
 B.  To test the utility on Windows Devices platform: 
 
-- Use WindowsWatchdog.sh
+- Use WindowsWatching.sh
 
 C.  Verify above scripts by capturing live events by testing: 
 
