@@ -9,6 +9,6 @@ The goal here is to audit file patterns during the time of ransomware execution.
   2. Download and install watchmedo utility. 
   
   
-1.  To test the utility on Apple devices (OS X) platform: 
+A.  To test the utility on Apple devices (OS X) platform: 
  
 - Use AppleWatchdog.sh 
