@@ -1,4 +1,4 @@
-#this is a shell code to detect files patterns live time 
+#this is a shell code to detect files patterns live time on MacBook or any Apple devices. 
 
 #!/bin/bash 
 
