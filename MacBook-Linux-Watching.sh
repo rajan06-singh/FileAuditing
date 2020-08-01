@@ -1,4 +1,4 @@
-#this is a shell code to detect files patterns live time on MacBook or any Apple devices. 
+#this is a shell code to detect files patterns live time on MacBook or any Linux devices. 
 #/bin/bash/
 
 watchmedo shell-command \
